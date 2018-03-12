@@ -7,6 +7,8 @@ using namespace std;
 
 //verifica se é bissexto
 bool bissexto(int numero)
+
+
 {
 	//resultados
 
